@@ -1,5 +1,5 @@
-const Footer=()=>{
-    return(
+const Footer = () => {
+    return (
         <div className="max-w-screen-xl mx-auto py-10">
             <div className="flex">
                 <div className="w-[25%] pr-7">
@@ -27,6 +27,8 @@ const Footer=()=>{
                                 <i class="fa-brands fa-facebook-f"></i>
                             </a>
                         </li>
+
+
                         <li className="mr-2">
                             <a
                                 href="/#"
